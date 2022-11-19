@@ -109,3 +109,5 @@
 ![示例](https://raw.githubusercontent.com/General74110/mini-Orz-3/none/-7.jpg)
 
 ![示例](https://raw.githubusercontent.com/General74110/mini-Orz-3/none/-7.jpg)
+
+![General74110's github stats](https://github-readme-stats.vercel.app/api?username=General74110&show_icons=true&theme=vue-dark)
